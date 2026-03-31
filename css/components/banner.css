@@ -1,0 +1,28 @@
+.banner {
+    background-image: linear-gradient(rgba(231, 111, 81, 0.4), rgba(38, 70, 83, 0.7)), url(../../images/coffee-bg.jpg);
+    color: white;
+    padding: 180px 0px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.banner h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+.banner h2 {
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 50px;
+    color: #f1f1f1;
+    margin-top: 0;
+    text-transform: none;
+    letter-spacing: normal;
+    font-family: 'Roboto', sans-serif;
+}
